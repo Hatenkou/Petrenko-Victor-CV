@@ -1,3 +1,3 @@
 # Petrenko-Victor-CV
 CV landing page 
-Link 
+Link https://hatenkou.github.io/Petrenko-Victor-CV/
